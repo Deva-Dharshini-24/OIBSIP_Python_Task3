@@ -10,16 +10,9 @@
 
 **A fully featured, dark-themed desktop weather application built with Python and Tkinter.**
 
-[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Screenshots](#-screenshots) • [Tech Stack](#-tech-stack)
+[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Tech Stack](#-tech-stack)
 
 </div>
-
----
-
-> **Intern Name:** Your Name Here
-> **Task:** Task 2 — Python Development
-> **Organization:** Oasis Infobyte (OIBSIP)
-> **Submission Date:** June 2025
 
 ---
 
@@ -135,15 +128,8 @@ python weather_app.py
 
 ---
 
-## 📸 Screenshots
-
-![WeatherPulse GUI](./assets/screenshot.png)
-
----
-
 ## 🎬 Demo
 
-- 📺 YouTube Demo: [Insert YouTube Link Here]
 - 💼 LinkedIn Post: [Insert LinkedIn Post Link Here]
 
 ---
@@ -156,19 +142,9 @@ python weather_app.py
 
 ---
 
-## 📝 File Naming Convention
 
-As per OIBSIP guidelines: `YourName_Task2` — e.g., `RaviKumar_Task2`
 
----
-
-## 📃 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-<div align="center">
+Submitted as part of the **Oasis Infobyte Python Internship — OIBSIP** 🚀
 
 Submitted as part of the **Oasis Infobyte Python Internship — OIBSIP** 🚀
 
