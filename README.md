@@ -146,8 +146,5 @@ python weather_app.py
 
 Submitted as part of the **Oasis Infobyte Python Internship — OIBSIP** 🚀
 
-Submitted as part of the **Oasis Infobyte Python Internship — OIBSIP** 🚀
 
-⭐ If you found this useful, consider starring the repo!
 
-</div>
