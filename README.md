@@ -6,7 +6,7 @@
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-green?style=for-the-badge)
 ![Open-Meteo](https://img.shields.io/badge/Open--Meteo-Free%20API-orange?style=for-the-badge&logo=cloud&logoColor=white)
 ![No API Key](https://img.shields.io/badge/API%20Key-Not%20Required-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+
 
 **A fully featured, dark-themed desktop weather application built with Python and Tkinter.**
 
